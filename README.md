@@ -2,7 +2,7 @@
 
 ## 📑 Table of Contents
 - [Importance of Clean Code](#-importance-of-clean-code)
-- [Naming Conventions](#naming-conventions)
+- [Naming Conventions](#-naming-conventions)
 - [Project Structure](#-project-structure)
 - [Variables](#-variables)
 - [Classes](#-classes)
