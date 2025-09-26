@@ -37,7 +37,7 @@
 
 ---
 
-## 🏗 Project Structure (FastAPI + AI Endpoints)
+## 🏗 Project Structure 
 
 Example of a clean and scalable structure for AI API projects:  
 
