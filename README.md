@@ -1,5 +1,3 @@
-تمام ✅ خليني أجهزلك ملف README.md كامل بكل التعديلات اللي اتفقنا عليها، وفي الآخر أضفت رسم تخطيطي ASCII يوضح تدفق الـ Request داخل مشروع FastAPI AI Endpoints.
-
 ---
 
 ```markdown
@@ -225,9 +223,4 @@ def store_data(storage: Storage, data: str):
 
 ---
 
-```
-
----
-
-تحب أضيف في آخر الملف **Quick Reference Table** صغير لكل الـ principles (SRP, OCP, LSP, ISP, DIP) بجملة تعريف مختصرة جدًا عشان يكون مرجع سريع؟
 ```
