@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🧹 Clean Code Summary (Python)
 
 ## 📑 Table of Contents
@@ -222,5 +219,3 @@ def store_data(storage: Storage, data: str):
 ```
 
 ---
-
-```
